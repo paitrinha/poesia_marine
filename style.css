@@ -1,8 +1,10 @@
-body {
-    background: #ff00b381
+header{
+    background-color: white;
+}
+body{
+    background: linear-gradient(to bottom,pink,red)
 }
 
-background: linear-gradient(to bottom, blue, pink)
 h1{
     text-align: center;
     color: rgb(160, 6, 250);
